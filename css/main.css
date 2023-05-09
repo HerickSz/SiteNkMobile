@@ -67,7 +67,7 @@ header {
     background-position: center;
     color: #FFFFFF;
     text-align: center;
-    padding: 20px;
+    padding: 9%;
 
 }
 
@@ -96,7 +96,7 @@ header {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 10px 10px 20px 20px;
+    padding: 50px 50px 50px 50px;
     background-color: #cf000e;
     color: #FFFFFF
 }
